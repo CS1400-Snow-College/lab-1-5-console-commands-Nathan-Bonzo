@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-5-console-commands-Nathan-Bonzo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f69df382919ed4205cc791ec200e7769a50e56ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e5ccd6c48b4a481eee76eda3f4d8a1fe2fb1a05")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-5-console-commands-Nathan-Bonzo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-5-console-commands-Nathan-Bonzo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
