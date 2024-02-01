@@ -1,0 +1,15 @@
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\bin\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.exe
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\bin\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.deps.json
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\bin\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.runtimeconfig.json
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\bin\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.dll
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\bin\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.pdb
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\obj\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\obj\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.AssemblyInfoInputs.cache
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\obj\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.AssemblyInfo.cs
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\obj\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.csproj.CoreCompileInputs.cache
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\obj\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.sourcelink.json
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\obj\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.dll
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\obj\Debug\net8.0\refint\lab-1-5-console-commands-Nathan-Bonzo.dll
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\obj\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.pdb
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\obj\Debug\net8.0\lab-1-5-console-commands-Nathan-Bonzo.genruntimeconfig.cache
+C:\Users\JHS Student\CS1400\lab-1-5-console-commands-Nathan-Bonzo\obj\Debug\net8.0\ref\lab-1-5-console-commands-Nathan-Bonzo.dll
